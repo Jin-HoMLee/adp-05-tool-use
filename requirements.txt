@@ -8,3 +8,6 @@ langchain==0.3.27
 # for 02_CrewAI_Hands-On Code Example_Chapter 5: Tool Use.ipynb
 crewai==0.201.1
 langchain-openai==0.3.34
+
+# for 03_Google ADK_Hands-On Code Example_Chapter 5: Tool Use.ipynb
+google-adk==1.15.1
